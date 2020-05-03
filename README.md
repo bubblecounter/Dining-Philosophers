@@ -9,4 +9,4 @@ Implementation of a solution for a modified version of the famous dining philoso
   We have five Java threads, one for each philosopher. While a philosopher waits other philosophers, the thread of the philosopher is blocked until other philosophers arrive to the table. To achieve this, i implemented a *Barrier* for 5 threads and users semaphores to prohibit *deadlock* and *starvation* scenarious
   
 ## Sample run
-![Sample Run](https://github.com/bubblecounter/diningPhilosophers/blob/master/sampleRun.gif)
+![](https://github.com/bubblecounter/diningPhilosophers/blob/master/sampleRun.gif)
